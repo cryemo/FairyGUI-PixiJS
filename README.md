@@ -1,6 +1,5 @@
-### * Please be noticed that this project won't be maintained any longer because our projects are changed to Phaser3, I'm sorry. 
 
-
+### * Upgrade this Lib to pixijs5.0 . 
 
 
 # What is this?
